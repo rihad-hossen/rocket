@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    font-family: 'Poppins', sans-serif;
+}
+#rocket .logo img{
+height: 120px;
+width: 150px;
+}
+#rocket .display .iteam {
+    background-color: #8A288F;
+}
+/* input start  */
+#input .iteam button{
+transition: .9s;
+}
+#input .iteam button:hover{
+    background-color: #8A288F;
+    color: white;
+}
+input[type= Number]::-webkit-inner-spin-button,
+input[type= Number]::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* input end */
